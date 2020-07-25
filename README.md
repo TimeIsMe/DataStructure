@@ -6,5 +6,5 @@ This is a project of symmetric list. Had been tested in both windows10-x64 and u
 
 ## prj-2-CrossList  
 This is a project about cross list. There are some functions of cross list, such as insert, delete, update and select.There is a diagram of cross list as follow.
-![cross list](https://github.com/TimeIsMe/DataStructure/prj-2-CrossList/CrossList.png)
+![cross list](https://github.com/TimeIsMe/DataStructure/blob/master/prj-2-CrossList/CrossList.png)
 
